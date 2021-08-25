@@ -1,2 +1,2 @@
 # MyCalculator
-simple calculator to exercise clean code in c# and remembering this programming language
+simple calculator to exercise clean code in c# and remembering this programming language (windows form application used)
